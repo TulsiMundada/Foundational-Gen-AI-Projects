@@ -1,0 +1,1 @@
+This folder contains my trial and error code while making the medical chatbot for my foundational Gen AI course
